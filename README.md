@@ -1,8 +1,9 @@
 # Facephi Challenge 2026: Identity Validation Pipeline
-> **Postulante:** Santiago Álvarez Geanta
-
-> **Enfoque:** Visión Computacional, Consenso Estadístico y Seguridad ICAO.
-
+> **Participante:** Santiago Álvarez Geanta
+>
+> **Grado:** Ingeniería en Inteligencia Artificial
+>
+> **Correo UA:** sag82@alu.ua.es
 ---
 
 ## 1. Visión General
